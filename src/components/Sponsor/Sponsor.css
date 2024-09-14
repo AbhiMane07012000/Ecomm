@@ -1,0 +1,6 @@
+.sponsor{
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    padding: 40px 100px;
+    gap: 30px;
+}
